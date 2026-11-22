@@ -8,8 +8,8 @@ Group Members
 3. Mayur Manhas
 
 Project Links
-- Figma Prototype: [Click here to view Figma Prototype](https://abhiansh-p.github.io/TurfTime-MiniProject/)
-- Live Website: [Click here to open Live Website](Link)
+- Figma Prototype: [Click here to view Figma Prototype](Link)
+- Live Website: [Click here to open Live Website](https://abhiansh-p.github.io/TurfTime-MiniProject/)
 
 Features Implemented
 - Responsive Navbar, Carousel, Cards, Alerts, and Pagination using Bootstrap 5.3.3
