@@ -8,7 +8,7 @@ Group Members
 3. Mayur Manhas
 
 Project Links
-- Figma Prototype: [Click here to view Figma Prototype](LINK)
+- Figma Prototype: [Click here to view Figma Prototype](https://abhiansh-p.github.io/TurfTime-MiniProject/)
 - Live Website: [Click here to open Live Website](Link)
 
 Features Implemented
