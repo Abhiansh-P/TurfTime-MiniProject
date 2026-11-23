@@ -3,8 +3,8 @@ Course: Computer Workshop-I Lab (LA-II Mini Project)
 Department: First Year B.Tech (CSE)
 
 Group Members
-1. Abhiansh Palsapure
-2. Swayam Headoo 
+1. Abhiansh Palsapure A15-B1-10
+2. Swayam Headoo A15-B1-09
 3. Mayur Manhas A15-B1-11
 
 Project Links
